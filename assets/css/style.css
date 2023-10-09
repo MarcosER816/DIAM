@@ -5565,8 +5565,8 @@ blockquote cite:before {
   margin-bottom: 20px;
 }
 .media-style2 .media-icon {
-  background-color: rgba(255, 116, 27, 0.1);
-  color: var(--theme-color2);
+  background-color: rgba(0, 47, 255, 0.25);
+  color: var(--white-color);
   width: 60px;
   height: 60px;
   line-height: 60px;
@@ -8103,7 +8103,7 @@ blockquote cite:before {
   line-height: var(--icon-size, 110px);
   margin: 0 0 26px 0;
   text-align: center;
-  background-color: rgba(255, 116, 27, 0.1);
+  background-color: rgba(0, 47, 255, 0.25);
   border-radius: 50%;
   transition: all ease 0.4s;
   font-size: 40px;
