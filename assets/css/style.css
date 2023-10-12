@@ -134,6 +134,10 @@ textarea:active {
   outline: none;
 }
 
+.justify{
+  text-align: justify;
+}
+
 input:focus {
   outline: none;
   box-shadow: none;
@@ -6277,13 +6281,14 @@ blockquote cite:before {
   left: 40px;
   bottom: 37px;
   bottom: -2px;
-  max-width: 300px;
+  max-width: 80%;
+  max-height: 280px;
   z-index: 2;
   transition: all ease 0.4s;
 }
 .service-style3 .service-title {
   color: var(--white-color);
-  font-size: 24px;
+  font-size: 60px;
   margin: 0 0 5px 0;
 }
 .service-style3 .service-title a {
@@ -6340,10 +6345,10 @@ blockquote cite:before {
   .service-style3 .service-content {
     left: 20px;
     bottom: -17px;
-    max-width: 250px;
+    max-width: 40%;
   }
   .service-style3 .service-title {
-    font-size: 20px;
+    font-size: 200px;
   }
   .service-style3:hover .service-content {
     bottom: 20px;
