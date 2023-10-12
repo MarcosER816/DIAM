@@ -2655,6 +2655,7 @@ a.text-theme:hover,
 }
 .footer-widget {
   margin-bottom: 40px;
+  margin-left: 50px;
 }
 .footer-widget,
 .footer-widget .widget {
